@@ -1,0 +1,27 @@
+body {
+    margin: 0; 
+}
+.primero {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    position: absolute;
+    left:  20px;
+    top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.segundo {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
